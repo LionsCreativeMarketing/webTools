@@ -1,0 +1,30 @@
+{
+  "pages": [
+    {
+      "title": "Page 1",
+      "paragraphs": [
+        {
+          "id": "p1",
+          "text": "This is the first paragraph on page 1."
+        },
+        {
+          "id": "p2",
+          "text": "This is the second paragraph on page 1."
+        }
+      ]
+    },
+    {
+      "title": "Page 2",
+      "paragraphs": [
+        {
+          "id": "p3",
+          "text": "This is the first paragraph on page 2."
+        },
+        {
+          "id": "p4",
+          "text": "This is the second paragraph on page 2."
+        }
+      ]
+    }
+  ]
+}
